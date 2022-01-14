@@ -1,1 +1,1 @@
-# sassy-k8s-helper
+# Sassy-k8s-helper
